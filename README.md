@@ -137,6 +137,14 @@
 ##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Dark%20Skin%20Tone.png" alt="Man Technologist Dark Skin Tone" width="25" height="25" /> Management:
 <img align="right" src="https://komarev.com/ghpvc/?username=micaeljlima&color=0000FF"><br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/micaeljlima/micaeljlima/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/micaeljlima/micaeljlima/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/micaeljlima/micaeljlima/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=micaeljlima&theme=cobalt) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=micaeljlima&hide=Html&theme=cobalt) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=micaeljlima&theme=cobalt) |
 | :-: | :-: | :-: |
 
